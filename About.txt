@@ -1,0 +1,2 @@
+Monte Carlo inspired machine learning program to play Four In A Row
+Get four counters in a line horizontally, vertically or diagonally to win. As you play more games the A.I.'s strategy improves.
